@@ -15,4 +15,4 @@ name: Protocol-PerlDebugCLI
 requires:
   Mixin::Event::Dispatch: 0.004
   parent: 0
-version: 0.001
+version: 0.002

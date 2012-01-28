@@ -5,16 +5,15 @@ use warnings;
 use parent qw(Mixin::Event::Dispatch);
 use Protocol::PerlDebugCLI::Request;
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 =head1 NAME
 
+Protocol::PerlDebugCLI - generate and process events for interacting with the Perl debug interface
 
 =head1 VERSION
 
-version 0.001
-Protocol::PerlDebugCLI - generate and process events for interacting
-with the Perl debug interface
+version 0.002
 
 =head1 SYNOPSIS
 
